@@ -1,5 +1,14 @@
 # IAC-Pulumi
 
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org) 
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/console)
+[![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![AWS Lambda](https://img.shields.io/badge/aws%20lambda-purple?style=for-the-badge&logo=aws%20lambda&logoColor=white)](https://aws.amazon.com/pm/lambda)
+[![Pulumi](https://img.shields.io/badge/Pulumi-navy?style=for-the-badge&logo=pulumi&logoColor=yellow)](https://www.pulumi.com/)
+[![Mailgun](https://img.shields.io/badge/Mailgun-red?style=for-the-badge&logo=mailgun&logoColor=black)](https://www.mailgun.com/)
+
 Pulumi is an Infrastructure as Code (IaC) tool designed to help manage and provision cloud resources and infrastructure. Pulumi provides a robust set of libraries, integrations with popular CI/CD tools. 
 Pulumi allows you to automate the provisioning and management of cloud infrastructure. You can define your infrastructure in code, and Pulumi will create, update, or delete cloud resources to match the desired state, reducing the manual and error-prone tasks involved in setting up and maintaining infrastructure.
 
